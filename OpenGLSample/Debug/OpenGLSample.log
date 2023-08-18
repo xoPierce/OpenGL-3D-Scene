@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CS330Week3Milestone.vcxproj, CS330Week4Milestone.vcxproj, CS330Week5Milestone.vcxproj, CS330Week2.vcxproj, CS330Week3.vcxproj, CS330Week4.vcxproj, CS330Week5.vcxproj, OpenGLSample.vcxproj, OpenGLSample2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(310,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(446,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(447,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(451,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(452,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(454,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(455,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(464,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\OpenGLSample\Source.cpp(1300,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  OpenGLSample.vcxproj -> C:\Users\pware\Desktop\SNHU\CS 330 Comp Graphic and Visualization\CS330FinalProject\Debug\CS330FinalProject.exe
